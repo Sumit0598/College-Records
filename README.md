@@ -1,4 +1,4 @@
-# College-Records
+# Classroom And Course Management
 
 This is a C-based console application that manages student course registrations and intelligently allocates classrooms for lectures and exams based on course slots and student counts. Key features include:
 
